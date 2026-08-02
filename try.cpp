@@ -1,11 +1,4 @@
-/*
-Target Output for n = 5:
-*
-* *
-* * *
-* * * *
-* * * * *
-*/
+
 #include <iostream>
 using namespace std;
 
